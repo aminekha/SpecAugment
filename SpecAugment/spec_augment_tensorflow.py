@@ -42,7 +42,7 @@ from tensorflow.contrib.image import sparse_image_warp
 import numpy as np
 import random
 import matplotlib
-# matplotlib.use('TkAgg')
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 
 
